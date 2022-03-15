@@ -36,11 +36,11 @@ Assignment 2 as a ([PDF]({{< baseurl >}}/resources/pset2-1))
 
 ### Problem 1
 
-Let u be a function on the ball B1(0) ⊂ ![](/courses/mathematics/18-152-introduction-to-partial-differential-equations-fall-2005/assignments/R1.jpg)2 with ∫B1(0) |![](/courses/mathematics/18-152-introduction-to-partial-differential-equations-fall-2005/assignments/eq2.jpg)u|p <\]infty for some constant p > 2. Show that u is holder continuous. \[Hint: Use Morrey on ∫ 1.|![](/courses/mathematics/18-152-introduction-to-partial-differential-equations-fall-2005/assignments/eq2.jpg)u|2 \]
+Let u be a function on the ball B1(0) ⊂ ![](/courses/mathematics/18-152-introduction-to-partial-differential-equations-fall-2005/assignments/R1.jpg)2 with ∫B1(0) |![](/courses/mathematics/18-152-introduction-to-partial-differential-equations-fall-2005/assignments/eq2.jpg)u|p \<\]infty for some constant p > 2. Show that u is holder continuous. \[Hint: Use Morrey on ∫ 1.|![](/courses/mathematics/18-152-introduction-to-partial-differential-equations-fall-2005/assignments/eq2.jpg)u|2 \]
 
 ### Problem 2
 
-Let u: ![](/courses/mathematics/18-152-introduction-to-partial-differential-equations-fall-2005/assignments/R1.jpg)n → ![](/courses/mathematics/18-152-introduction-to-partial-differential-equations-fall-2005/assignments/R1.jpg), and define OSCBr(x)u = supBr(x)u - infBr(x)u. Show that if there is some constant 0 < γ < 1 with
+Let u: ![](/courses/mathematics/18-152-introduction-to-partial-differential-equations-fall-2005/assignments/R1.jpg)n → ![](/courses/mathematics/18-152-introduction-to-partial-differential-equations-fall-2005/assignments/R1.jpg), and define OSCBr(x)u = supBr(x)u - infBr(x)u. Show that if there is some constant 0 \< γ \< 1 with
 
 oscBr(x)u ≤ γ oscB2r(x)u
 
