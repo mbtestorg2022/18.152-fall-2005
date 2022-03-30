@@ -12,7 +12,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Prerequisite
 ------------
 
-Analysis I ([18.100C](/courses/18-100c-real-analysis-fall-2012/))
+Analysis I ([18.100C](/courses/18-100c-real-analysis-fall-2012))
 
 Course Description
 ------------------

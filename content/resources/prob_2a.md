@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 4d482928-9d2b-235f-6034-cc905080fc70
 resourcetype: Image
 title: prob_2a.jpg
 uid: 4e04b084-96e5-3058-c6c4-1a06546c87fb
